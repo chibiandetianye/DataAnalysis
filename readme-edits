@@ -1,1 +1,0 @@
-对sklearn.Pipeline.featureUnion 新增功能 是其能够进行对数据部分列处理
